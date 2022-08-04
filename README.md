@@ -1,0 +1,1 @@
+Bu depo patika.dev odev2 için oluşturulmuştur.
