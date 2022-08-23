@@ -1,1 +1,1 @@
-Bu depo patika.dev odev2 için oluşturulmuştur.
+Bu depo patika.dev denemeleri için oluşturulmuştur.
